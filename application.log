@@ -1,0 +1,99 @@
+2024-12-23T05:46:13.250Z [info]: 🔍 ファイルパターン: src/**/*.js
+2024-12-23T05:46:13.264Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/Linter.js[39m
+2024-12-23T05:46:13.685Z [info]: [32m✅ 修正の必要がありませんでした: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/Linter.js[39m
+2024-12-23T05:46:13.686Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/index.js[39m
+2024-12-23T05:46:13.749Z [info]: [32m✅ 修正の必要がありませんでした: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/index.js[39m
+2024-12-23T05:46:13.751Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/logger.js[39m
+2024-12-23T05:46:13.776Z [info]: [32m✅ 修正の必要がありませんでした: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/logger.js[39m
+2024-12-23T05:46:13.777Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/playSound.js[39m
+2024-12-23T05:46:13.799Z [info]: [32m✅ 修正の必要がありませんでした: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/playSound.js[39m
+2024-12-23T05:46:13.800Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/prepareTestFile.js[39m
+2024-12-23T05:46:13.816Z [info]: [32m✅ 修正の必要がありませんでした: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/prepareTestFile.js[39m
+2024-12-23T05:46:13.817Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/testFile.js[39m
+2024-12-23T05:46:13.832Z [info]: [32m✅ 修正の必要がありませんでした: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/testFile.js[39m
+2024-12-23T05:46:13.833Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/testFileTemplate.js[39m
+2024-12-23T05:46:13.848Z [info]: [32m✅ 修正の必要がありませんでした: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/testFileTemplate.js[39m
+2024-12-23T05:46:13.848Z [info]: [32m🎉 手動修正が完了しました！[39m
+2024-12-23T05:46:16.610Z [info]: 音声が再生されました: /Users/tc-user/.nvm/versions/node/v22.12.0/lib/node_modules/mama-linter/assets/fix-applied.mp3
+2024-12-23T05:46:25.020Z [info]: 🛠️ reset-test コマンドが呼び出されました！
+2024-12-23T05:46:25.023Z [info]: リセットするファイル: src/testFile.js
+2024-12-23T05:46:25.024Z [info]: 🛠️ リセットするファイルパス: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/testFile.js
+2024-12-23T05:46:25.036Z [info]: ✅ ファイルがリセットされました: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/testFile.js
+2024-12-23T05:46:25.036Z [info]: ✅ テストファイルがリセットされました。
+2024-12-23T05:46:33.923Z [info]: 🔍 ファイルパターン: src/**/*.js
+2024-12-23T05:46:33.957Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/Linter.js[39m
+2024-12-23T05:46:34.402Z [info]: [32m✅ 修正の必要がありませんでした: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/Linter.js[39m
+2024-12-23T05:46:34.404Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/index.js[39m
+2024-12-23T05:46:34.461Z [info]: [32m✅ 修正の必要がありませんでした: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/index.js[39m
+2024-12-23T05:46:34.463Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/logger.js[39m
+2024-12-23T05:46:34.484Z [info]: [32m✅ 修正の必要がありませんでした: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/logger.js[39m
+2024-12-23T05:46:34.485Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/playSound.js[39m
+2024-12-23T05:46:34.512Z [info]: [32m✅ 修正の必要がありませんでした: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/playSound.js[39m
+2024-12-23T05:46:34.513Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/prepareTestFile.js[39m
+2024-12-23T05:46:34.529Z [info]: [32m✅ 修正の必要がありませんでした: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/prepareTestFile.js[39m
+2024-12-23T05:46:34.530Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/testFile.js[39m
+2024-12-23T05:46:34.534Z [info]: [32m✅ Prettier による修正が適用されました: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/testFile.js[39m
+2024-12-23T05:46:34.558Z [info]: [33m⚠️ 修正が必要な箇所が残っています: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/testFile.js[39m
+2024-12-23T05:46:34.558Z [info]: [33m- 4:1 Unexpected var, use let or const instead. (no-var)[39m
+2024-12-23T05:46:34.568Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/testFileTemplate.js[39m
+2024-12-23T05:46:37.751Z [info]: 音声が再生されました: /Users/tc-user/.nvm/versions/node/v22.12.0/lib/node_modules/mama-linter/assets/attention.mp3
+2024-12-23T05:46:37.753Z [info]: 音声が再生されました: /Users/tc-user/.nvm/versions/node/v22.12.0/lib/node_modules/mama-linter/assets/prettier-fix.mp3
+2024-12-23T05:46:37.764Z [info]: 音声が再生されました: /Users/tc-user/.nvm/versions/node/v22.12.0/lib/node_modules/mama-linter/assets/attention.mp3
+2024-12-23T05:48:56.514Z [info]: 🔍 ファイルパターン: src/**/*.js
+2024-12-23T05:48:56.527Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/Linter.js[39m
+2024-12-23T05:48:56.893Z [info]: [32m✅ 修正の必要がありませんでした: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/Linter.js[39m
+2024-12-23T05:48:56.895Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/index.js[39m
+2024-12-23T05:48:56.953Z [info]: [32m✅ 修正の必要がありませんでした: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/index.js[39m
+2024-12-23T05:48:56.955Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/logger.js[39m
+2024-12-23T05:48:56.982Z [info]: [32m✅ 修正の必要がありませんでした: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/logger.js[39m
+2024-12-23T05:48:56.983Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/playSound.js[39m
+2024-12-23T05:48:57.008Z [info]: [32m✅ 修正の必要がありませんでした: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/playSound.js[39m
+2024-12-23T05:48:57.010Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/prepareTestFile.js[39m
+2024-12-23T05:48:57.025Z [info]: [32m✅ 修正の必要がありませんでした: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/prepareTestFile.js[39m
+2024-12-23T05:48:57.026Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/testFile.js[39m
+2024-12-23T05:48:57.041Z [info]: [32m✅ 修正の必要がありませんでした: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/testFile.js[39m
+2024-12-23T05:48:57.041Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/testFileTemplate.js[39m
+2024-12-23T05:48:57.060Z [info]: [32m✅ 修正の必要がありませんでした: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/testFileTemplate.js[39m
+2024-12-23T05:48:57.060Z [info]: [32m🎉 手動修正が完了しました！[39m
+2024-12-23T05:48:59.454Z [info]: 音声が再生されました: /Users/tc-user/.nvm/versions/node/v22.12.0/lib/node_modules/mama-linter/assets/fix-applied.mp3
+2024-12-23T06:11:40.269Z [info]: 🔍 ファイルパターン: src/**/*.js
+2024-12-23T06:11:40.284Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/Linter.js[39m
+2024-12-23T06:11:40.573Z [info]: [32m✅ 修正の必要がありませんでした: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/Linter.js[39m
+2024-12-23T06:11:40.574Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/index.js[39m
+2024-12-23T06:11:40.646Z [info]: [32m✅ 修正の必要がありませんでした: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/index.js[39m
+2024-12-23T06:11:40.648Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/logger.js[39m
+2024-12-23T06:11:40.668Z [info]: [32m✅ 修正の必要がありませんでした: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/logger.js[39m
+2024-12-23T06:11:40.669Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/playSound.js[39m
+2024-12-23T06:11:40.699Z [info]: [32m✅ 修正の必要がありませんでした: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/playSound.js[39m
+2024-12-23T06:11:40.701Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/prepareTestFile.js[39m
+2024-12-23T06:11:40.724Z [info]: [32m✅ 修正の必要がありませんでした: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/prepareTestFile.js[39m
+2024-12-23T06:11:40.725Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/testFile.js[39m
+2024-12-23T06:11:40.748Z [info]: [32m✅ 修正の必要がありませんでした: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/testFile.js[39m
+2024-12-23T06:11:40.749Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/testFileTemplate.js[39m
+2024-12-23T06:11:40.765Z [info]: [32m✅ 修正の必要がありませんでした: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/testFileTemplate.js[39m
+2024-12-23T06:11:40.765Z [info]: [32m🎉 手動修正が完了しました！[39m
+2024-12-23T06:11:43.235Z [info]: 音声が再生されました: /Users/tc-user/.nvm/versions/node/v22.12.0/lib/node_modules/mama-linter/assets/fix-applied.mp3
+2024-12-23T06:11:49.195Z [info]: 🛠️ reset-test コマンドが呼び出されました！
+2024-12-23T06:11:49.198Z [info]: リセットするファイル: src/testFile.js
+2024-12-23T06:11:49.198Z [info]: 🛠️ リセットするファイルパス: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/testFile.js
+2024-12-23T06:11:49.210Z [info]: ✅ ファイルがリセットされました: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/testFile.js
+2024-12-23T06:11:49.210Z [info]: ✅ テストファイルがリセットされました。
+2024-12-23T06:11:52.506Z [info]: 🔍 ファイルパターン: src/**/*.js
+2024-12-23T06:11:52.520Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/Linter.js[39m
+2024-12-23T06:11:52.807Z [info]: [32m✅ 修正の必要がありませんでした: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/Linter.js[39m
+2024-12-23T06:11:52.808Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/index.js[39m
+2024-12-23T06:11:52.866Z [info]: [32m✅ 修正の必要がありませんでした: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/index.js[39m
+2024-12-23T06:11:52.867Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/logger.js[39m
+2024-12-23T06:11:52.890Z [info]: [32m✅ 修正の必要がありませんでした: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/logger.js[39m
+2024-12-23T06:11:52.891Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/playSound.js[39m
+2024-12-23T06:11:52.915Z [info]: [32m✅ 修正の必要がありませんでした: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/playSound.js[39m
+2024-12-23T06:11:52.916Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/prepareTestFile.js[39m
+2024-12-23T06:11:52.935Z [info]: [32m✅ 修正の必要がありませんでした: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/prepareTestFile.js[39m
+2024-12-23T06:11:52.935Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/testFile.js[39m
+2024-12-23T06:11:52.940Z [info]: [32m✅ Prettier による修正が適用されました: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/testFile.js[39m
+2024-12-23T06:11:52.969Z [info]: [33m⚠️ 修正が必要な箇所が残っています: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/testFile.js[39m
+2024-12-23T06:11:52.969Z [info]: [33m- 4:1 Unexpected var, use let or const instead. (no-var)[39m
+2024-12-23T06:11:52.976Z [info]: [34m🛠️ 修正および手動修正箇所をリストアップ中: /Users/tc-user/ghq/github.com/Jyoumama/mama-linter-demo/src/testFileTemplate.js[39m
+2024-12-23T06:11:56.279Z [info]: 音声が再生されました: /Users/tc-user/.nvm/versions/node/v22.12.0/lib/node_modules/mama-linter/assets/attention.mp3
+2024-12-23T06:11:56.281Z [info]: 音声が再生されました: /Users/tc-user/.nvm/versions/node/v22.12.0/lib/node_modules/mama-linter/assets/prettier-fix.mp3
+2024-12-23T06:11:56.292Z [info]: 音声が再生されました: /Users/tc-user/.nvm/versions/node/v22.12.0/lib/node_modules/mama-linter/assets/attention.mp3
